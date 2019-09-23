@@ -1,2 +1,2 @@
-# PyBites-Challenges
-My solutions to the PyBites Coding Challenges. I want to keep my python skills sharp over the summer by doing one of these challenges every day.
+# PyBites Challenges
+My on going solutions to the PyBites Coding Challenges.
